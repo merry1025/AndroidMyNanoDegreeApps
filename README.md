@@ -59,9 +59,8 @@ public class MainActivity extends AppCompatActivity {
     public void showBtn1(View v){
         txtView = (TextView)findViewById(R.id.textDetail);
         txtView.setText("This is my first app");
-  }
-
-  }
+        }
+    }
   
   ###(4) Run the application, in emulator, click the Button, it will show the text "This is my first app".
 
